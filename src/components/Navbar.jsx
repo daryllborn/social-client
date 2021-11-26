@@ -73,10 +73,10 @@ const Navbar = () => {
     <AppBar position="fixed">
       <Toolbar className={classes.toolbar}>
         <Typography variant="h6" className={classes.logoLg}>
-          Lama Dev
+          Social Client
         </Typography>
         <Typography variant="h6" className={classes.logoSm}>
-          LAMA
+          BORN
         </Typography>
         <div className={classes.search}>
           <Search />
@@ -95,7 +95,7 @@ const Navbar = () => {
             <Notifications />
           </Badge>
           <Avatar
-            alt="Remy Sharp"
+            alt="Lotte Born"
             src="https://images.pexels.com/photos/8647814/pexels-photo-8647814.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
           />
         </div>
